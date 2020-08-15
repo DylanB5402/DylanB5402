@@ -4,5 +4,6 @@ I'm Dylan (he/him/his), an incoming freshman at UCSD, majoring in Computer Scien
 
 Try to guess what my profile picture says! 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=DylanB5402&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanB5402)](https://github.com/anuraghazra/github-readme-stats)
+
 
