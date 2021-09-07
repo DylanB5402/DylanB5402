@@ -1,6 +1,6 @@
 ### Hello there
 
-I'm Dylan (he/him/his), a freshman at UCSD, majoring in Computer Science. Right now I'm working on a bunch of miscellaneous side projects while trying to find new ways to occupy my time since I'm not spending 20 hours/week at FRC meetings anymore. I spent most of my time in high school on robotics and controls. I'm looking forward to joining a project org and exploring different areas of software in college.
+Hi, I’m Dylan, a 2nd year Computer Science major at UCSD interested in exploring different areas of software development and creating practical software to solve various problems. I got my start in software development writing software for 125 pound robots in the FIRST Robotics Competition. Most recently, I've been doing backend development, both for an internship with the San Diego Supercomputer Center and for a side project I've been doing on my own.
 
 Try to guess what my profile picture says! 
 
